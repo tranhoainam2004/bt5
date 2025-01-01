@@ -1,0 +1,10 @@
+C:\Users\giang\source\repos\soanthaovanban\soanthaovanban\bin\Debug\soanthaovanban.exe.config
+C:\Users\giang\source\repos\soanthaovanban\soanthaovanban\bin\Debug\soanthaovanban.exe
+C:\Users\giang\source\repos\soanthaovanban\soanthaovanban\bin\Debug\soanthaovanban.pdb
+C:\Users\giang\source\repos\soanthaovanban\soanthaovanban\obj\Debug\soanthaovanban.csproj.AssemblyReference.cache
+C:\Users\giang\source\repos\soanthaovanban\soanthaovanban\obj\Debug\soanthaovanban.Form1.resources
+C:\Users\giang\source\repos\soanthaovanban\soanthaovanban\obj\Debug\soanthaovanban.Properties.Resources.resources
+C:\Users\giang\source\repos\soanthaovanban\soanthaovanban\obj\Debug\soanthaovanban.csproj.GenerateResource.cache
+C:\Users\giang\source\repos\soanthaovanban\soanthaovanban\obj\Debug\soanthaovanban.csproj.CoreCompileInputs.cache
+C:\Users\giang\source\repos\soanthaovanban\soanthaovanban\obj\Debug\soanthaovanban.exe
+C:\Users\giang\source\repos\soanthaovanban\soanthaovanban\obj\Debug\soanthaovanban.pdb
